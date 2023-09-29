@@ -18,15 +18,15 @@ Before you begin, ensure you have met the following requirements:
 Java Development Kit (JDK) installed (Java version 17 or higher).
 Maven installed.
 Git installed.
-Getting Started
+
+## Getting Started
+
 To get started with this project, follow these steps:
 
 Clone the repository to your local machine:
-
-
 git clone https://github.com/your-username/your-repo.git
-Change into the project directory:
 
+Change into the project directory:
 
 cd your-repo
 Build the project using Maven:
