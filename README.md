@@ -30,22 +30,21 @@ Change into the project directory:
 
 cd your-repo
 Build the project using Maven:
-
-
 mvn clean install
+
 Running the Microservices
+
 To run the microservices, follow these steps:
-
 Start the Config Server:
-
 
 cd config-server
 mvn spring-boot:run
-Start the Service Registry:
 
+Start the Service Registry:
 
 cd service-registry
 mvn spring-boot:run
+
 Start the Account Service, API Gateway, and Customer Service in separate terminal windows using the same command structure:
 
 cd account-service
